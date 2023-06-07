@@ -1,10 +1,4 @@
-# YB_Module-World
 
-Extension for Yahboom YB_Module-World V1.0
-
-## License
-
-MIT
 
 ## Supported targets
 
